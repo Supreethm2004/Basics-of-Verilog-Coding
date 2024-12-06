@@ -1,5 +1,3 @@
-`timescale 1ns / 1ps
-
 module fs_nand(
   input a, b, bin,
   output sout, cout
