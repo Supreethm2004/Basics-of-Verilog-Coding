@@ -2,12 +2,16 @@
 
 Welcome to the **Digital Design and Verilog Modules Repository**! This repository serves as a comprehensive collection of Verilog HDL modules for a wide range of digital logic design tasks. Whether you're a beginner exploring the basics of logic circuits or an advanced designer working on complex systems, this repository provides high-quality, reusable, and modular code to suit your needs.
 
+---
+
 ### Key Highlights:
 - **Broad Coverage**: The repository includes essential modules for **arithmetic operations**, **flip-flops**, **code converters**, **counters**, and more. This makes it a one-stop resource for learning and implementing digital circuits.
 - **Optimized Design**: All modules are implemented using efficient coding techniques to ensure clarity, modularity, and optimal simulation performance.
 - **Educational Resource**: Ideal for students, researchers, and professionals in digital design. Each module is carefully structured and commented for easy understanding and learning.
 - **Practical Applications**: The modules can be directly used in FPGA/ASIC designs or as building blocks for larger systems.
 - **Scalable Design**: Most modules are parameterized or can be easily extended to support additional functionality (e.g., increasing bit widths or adding features).
+
+---
 
 ### What's Inside:
 1. **Basic Logic Design**: Includes modules for adders, subtractors, encoders, decoders, multiplexers, and demultiplexers.
@@ -18,7 +22,6 @@ Welcome to the **Digital Design and Verilog Modules Repository**! This repositor
 6. **Specialized Modules**: Check for **prime numbers**, determine **palindromes**, and even compute Armstrong numbers – great for both learning and practical use.
 
 ---
-
 
 # Table of Contents
 
@@ -93,6 +96,7 @@ Welcome to the **Digital Design and Verilog Modules Repository**! This repositor
 - Easily adapt modules for custom applications.
 - Reference efficient coding techniques for optimized hardware implementation.
 
+---
 
 ### Contribution Guidelines:
 We welcome contributions to enhance the repository! Feel free to:
@@ -101,6 +105,8 @@ We welcome contributions to enhance the repository! Feel free to:
 - Improve documentation for clarity and completeness.
 
 To contribute, fork the repository, make your changes, and create a pull request. Ensure that your code is clean, well-documented, and adheres to standard HDL practices.
+
+--
 
 ### License:
 This repository is licensed under the **MIT License**, allowing you to freely use, modify, and distribute the code with appropriate attribution.
