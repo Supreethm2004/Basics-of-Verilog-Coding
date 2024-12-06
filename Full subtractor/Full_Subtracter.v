@@ -1,7 +1,3 @@
-// Author: Maaz Mahmood
-// Create Date:    14:26:16 12/26/2022 
-// Module Name:    Full_Subtracter 
-
 module Full_Subtracter(A,B,Bin,Diff,Borrow);
 	input A,B,Bin;
 	output Diff,Borrow;
